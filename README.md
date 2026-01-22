@@ -57,13 +57,7 @@ The output frequency can be controlled by adjusting the **external resistor and 
 
 ---
 
-## 🖼️ Circuit Diagram
 
-> Add your circuit schematic image here
-> Example:
-> '"C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-01-13 114327.png"'
-
----
 
 
 
